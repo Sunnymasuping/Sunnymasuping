@@ -1,5 +1,9 @@
 <h2> Hi, I'm Sunnymasuping! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://github.com/Sunnymasuping/img/blob/main/ppm.jpg?raw=true" width="230">
+<img src="https://github.com/Sunnymasuping/img/blob/main/mmm.jpg?raw=true" 
+     style="border-radius: 50%; border: 10px solid #ffccff;" 
+     width="230" 
+     alt="cute photo">
+
 <p><em> 
   <a href="https://www.cqut.edu.cn">重庆理工大学</a> 
   计算机科学与技术系
