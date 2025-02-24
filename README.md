@@ -2,11 +2,12 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em> 
   <a href="https://www.cqut.edu.cn">重庆理工大学</a> 
-  <a href="https://www.cqut.edu.cn">计算机科学与技术系</a>
+  计算机科学与技术系
   <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   </br>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
+
 
 <p><em> 欢迎光临我的 <a href="https://sunnymasuping.github.io">个人博客BLOG</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
