@@ -21,30 +21,14 @@
 
 ```javascript
 const maSuping = {
-  pronouns: "she" | "her",  // Female pronouns
+  pronouns: "she" | "her",  
   introduction: "My name is Ma Suping, a senior student majoring in Computer Science and Technology at Chongqing University of Technology. I am passionate about artificial intelligence, digital media, and interactive media.",
-  code: [Javascript, Typescripts, HTML, CSS, Python, Java, SQL],  // Programming languages
-  tools: [React, Node, Express, Koa, Knex, Docker, MyBatis],  // Technologies used
-  projects: [
-    {
-      name: "Teacher Evaluation System",
-      techStack: "Vue, Axios, HTML, JS, Thymeleaf, Servlet, JavaBean, Filter, Listener, MVC, MySQL",
-      description: "Developed a teaching management system that includes course, teacher, student, and evaluation management, allowing students to evaluate teachers and view feedback, and admins to manage data and generate reports."
-    },
-    {
-      name: "Car Rental System Development",
-      techStack: "JavaScript, HTML, CSS, Node.js, Express, MySQL, Knex.js, CORS, Morgan",
-      description: "Built a scalable and secure car rental system, providing core services such as vehicle rental, payment, and user management, with a focus on user experience and system efficiency."
-    },
-    {
-      name: "WeChat Mini Program Ordering System",
-      techStack: "Vue2, Axios, Element UI, Uniapp, Echarts, SpringBoot, MyBatis, MySQL",
-      description: "Created a restaurant ordering system for WeChat, allowing customers to place orders and track them, while providing an admin platform to manage dishes, categories, and orders."
-    }
-  ],
+  code: [Javascript, Typescripts, HTML, CSS, Python, Java, SQL],  
+  tools: [React, Node, Express, Koa, Knex, Docker, MyBatis, TensorFlow, PyTorch],  
+  aiSpecializations: "Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision, Predictive Modeling",  
   techCommunities: {
-    coorganizer: "Chongqing AI Developer Meetup",  // Co-organizer of the meetup
-    speaker: "Chongqing University of Technology AI Symposium",  // Speaker at AI symposium
+    participant: "Chongqing AI Developer Meetup",
+    speaker: "Chongqing University of Technology AI Symposium", 
   },
   academicInterests: "I am interested in artificial intelligence, machine learning, and digital media applications, particularly in computer vision, natural language processing, and immersive interactive design.",
   aspiration: "Through my studies at UIC, I aim to deepen my knowledge in AI and interactive media, applying my technical background to innovate at the intersection of technology and creativity."
